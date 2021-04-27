@@ -13,11 +13,11 @@ Here is where you can find me:
 ### University Content :books:
 - Third Semester: [3rd Semester Repository]()
 - Fourth Semester: [4th Semester Repository]()
-
+---
 ### Research :telescope:
 - PS: Will update as soon as the paper is published.
-
+---
 ### Challenges :bulb:
 - Do you have any challange for me? Tell me on [Challenges](https://github.com/vvarg-iinet/Challenges.git)
-
+---
 [![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvarg-iinet&theme=dracula&show_icons=true&count_private=true)](https://github.com/vvarg-iinet)
