@@ -11,8 +11,8 @@ Here is where you can find me:
 ---
 
 ### University Content :books:
-- Third Semester: [3rd Semester Repository]()
-- Fourth Semester: [4th Semester Repository]()
+- Third Semester: [3rd Semester Repository](https://github.com/vvarg-iinet/CS-University-Content)
+- Fourth Semester: [4th Semester Repository](https://github.com/vvarg-iinet/CS-University-Content)
 ---
 ### Research :telescope:
 - PS: Will update as soon as the paper is published.
