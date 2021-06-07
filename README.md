@@ -19,7 +19,4 @@ Here is where you can find me:
 ### **Research** :telescope:
 - PS: Will update as soon as the paper is published.
 ---
-### **Challenges** :bulb:
-- Do you have any challange for me? Tell me on [Challenges](https://github.com/vvarg-iinet/Challenges.git)
----
 [![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvarg-iinet&theme=dracula&show_icons=true&count_private=true)](https://github.com/vvarg-iinet)
