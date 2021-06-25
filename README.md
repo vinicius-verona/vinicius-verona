@@ -10,11 +10,11 @@ Here is where you can find me:
 [![TryHackMe Badge](https://img.shields.io/badge/TRYHACKME-212C42.svg?&style=for-the-badge&logo=TryHackMe&logoColor=red
 )](https://tryhackme.com/p/Verona05)
 
----
-
+<!-- --- -->
+<!-- 
 ### **University Content** :books:
 - Third Semester: [3rd Semester Repository](https://github.com/vvarg-iinet/CS-University-Content)
-- Fourth Semester: [4th Semester Repository](https://github.com/vvarg-iinet/CS-University-Content)
+- Fourth Semester: [4th Semester Repository](https://github.com/vvarg-iinet/CS-University-Content) -->
 ---
 ### **Research** :telescope:
 - PS: Will update as soon as the paper is published.
