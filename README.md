@@ -1,4 +1,4 @@
-# **Welcome my fellow user** :grin: 
+# **Welcome fellow user** :grin: 
 
 My name is **`Vinicius`**. Currently, I am a Computer Science student at [**UFOP - Brazil**](ufop.br) and in here you will have access to a bit of my projects concluded, such as personal projects, university projects and researches.
 
