@@ -17,6 +17,6 @@ Here is where you can find me:
 - Fourth Semester: [4th Semester Repository](https://github.com/vvarg-iinet/CS-University-Content) -->
 ---
 ### **Research** :telescope:
-- PS: Will update as soon as the paper is published.
+- PS: Will update as soon as the paper gets published.
 ---
 [![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvarg-iinet&theme=dracula&show_icons=true&count_private=true)](https://github.com/vvarg-iinet)
