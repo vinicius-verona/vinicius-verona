@@ -1,6 +1,6 @@
 # **Welcome fellow user** :grin: 
 
-My name is **`Vinicius`**. Currently, I am a Computer Science student at [**UFOP - Brazil**](ufop.br) and in here you will have access to a bit of my projects concluded, such as personal projects, university projects and researches.
+My name is **`Vinicius`**. Currently, I am a Computer Science student at [**UFOP - Brazil**](https://www.ufop.br) and in here you will have access to a bit of my projects concluded, such as personal projects, university projects and researches.
 
 In case you find any problem or have any suggestion, please, open an **`issue`** or contact me!
 
