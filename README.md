@@ -19,5 +19,11 @@ Here is where you can find me:
 ### **Research** :telescope:
 - PS: Will update as soon as the paper gets published.
 ---
-[![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvarg-iinet&theme=dracula&show_icons=true&count_private=true)](https://github.com/vvarg-iinet)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvarg-iinet&theme=dracula&show_icons=true&count_private=true)](https://github.com/vvarg-iinet)
+<!-- [![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvarg-iinet&theme=dracula&show_icons=true&count_private=true)](https://github.com/vvarg-iinet) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvarg-iinet&theme=dracula&show_icons=true&count_private=true)](https://github.com/vvarg-iinet) -->
+<div align="center">
+  <a href="https://github.com/vvarg-iinet">
+  <img height="180em" src="https://github-readme-stats-nine-navy.vercel.app/api?username=vvarg-iinet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-nine-navy.vercel.app/api/top-langs/?username=vvarg-iinet&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
