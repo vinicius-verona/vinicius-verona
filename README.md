@@ -20,3 +20,4 @@ Here is where you can find me:
 - PS: Will update as soon as the paper gets published.
 ---
 [![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvarg-iinet&theme=dracula&show_icons=true&count_private=true)](https://github.com/vvarg-iinet)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvarg-iinet&theme=dracula&show_icons=true&count_private=true)](https://github.com/vvarg-iinet)
