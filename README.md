@@ -6,7 +6,7 @@ In case you find any problem or have any suggestion, please, open an **`issue`**
 
 Here is where you can find me:
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-verona/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verona/)
 [![TryHackMe Badge](https://img.shields.io/badge/TRYHACKME-212C42.svg?&style=for-the-badge&logo=TryHackMe&logoColor=red
 )](https://tryhackme.com/p/Verona05)
 ---
