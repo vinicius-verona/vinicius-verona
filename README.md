@@ -2,10 +2,9 @@
 
 My name is **`Vinicius`**. Currently, I am a Computer Science student at [**UFOP - Brazil**](https://www.ufop.br) and in here you will have access to a bit of my projects concluded, such as personal projects, university projects and researches.
 
-In case you find any problem or have any suggestion, please, open an **`issue`** or contact me!
+<!--In case you find any problem or have any suggestion, please, open an **`issue`** or contact me!-->
 
-Here is where you can find me:
-
+## Contact me:
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verona/)
 [![TryHackMe Badge](https://img.shields.io/badge/TRYHACKME-212C42.svg?&style=for-the-badge&logo=TryHackMe&logoColor=red
 )](https://tryhackme.com/p/Verona05)
