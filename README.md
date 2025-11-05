@@ -6,8 +6,6 @@ My name is **`Vinicius`**. Currently, I am a Computer Science  master student at
 
 ## Contact me:
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verona/)
-[![TryHackMe Badge](https://img.shields.io/badge/TRYHACKME-212C42.svg?&style=for-the-badge&logo=TryHackMe&logoColor=red
-)](https://tryhackme.com/p/Verona05)
 ---
 <!-- ---
 ### **Research** :telescope:
