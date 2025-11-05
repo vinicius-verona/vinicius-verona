@@ -1,8 +1,6 @@
 # **Welcome fellow user** :grin: 
 
-My name is **`Vinicius`**. Currently, I am a Computer Science  master student at [**UGA - France**](https://www.univ-grenoble-alpes.fr/) and in here you will have access to a bit of my projects concluded, such as personal projects, university projects and researches.
-
-<!--In case you find any problem or have any suggestion, please, open an **`issue`** or contact me!-->
+My name is **`Vinicius`**. Currently, I am a Cybersecurity Graduate student at [**UGA Grenoble INP - France**](https://www.univ-grenoble-alpes.fr/) and in here you will have access to a bit of my projects, such as personal projects, university projects and research.
 
 ## Contact me:
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verona/)
